@@ -25,10 +25,13 @@ Also will see Vector Autoregression (VAR) that is a multivariate forecasting alg
 > * **Decide the Order (P) of VAR model :** For our data decide on which lag is better to fit model. Choosed lowest AIC and other metrics.
 > * **Transform the time series into a supervised learning problem for LSTM** 
 > * **Check for Serial Correlation of Residuals :** Be sure residuals are randomly distributed which as known white noise.
- <br/> 
-Help you to reach listed sources that I have been received support. You can go to check out both of them which are quite good tutorials to first shot multivariate time series analysis.  <br/> 
 
-(https://machinelearningmastery.com/use-timesteps-lstm-networks-time-series-forecasting/)
-(https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/)
+Help you to reach listed sources that I have been received support. You can go to check out both of them which are quite good tutorials to first shot multivariate time series analysis.  
+
+https://machinelearningmastery.com/use-timesteps-lstm-networks-time-series-forecasting/
+
+https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/
+
 <br/>
+
 Good luck.
