@@ -12,6 +12,9 @@ In this notebook, nonlinear modeling techniques were applied to predict continuo
 
 Applied several machine learning algortihms to predict number of hit. The best result is received by **LightGBM** algorithm which is one of the Gradient Boosting Trees. LightGBM has various tricks to make training more efficient and to improve performance and reduce the overfitting. It has different and more complicated tree split methodology which also makes it the better run. We also applied LightGBM for feature importance.
 
+> **_<Note!>_**
+> Due to dealing with real dataset, accuracies are not that much higher.
+
 ## 3. Multivariate Time Series LSTM Model & VAR Model 
 In this code page, you will encounter the solutions via two different model approaches. First, apply multivariate LSTM for forecasting the click data. I use a quite base stateful LSTM model with 1 neuron fit for 20 epochs and 30 epochs. 
 
