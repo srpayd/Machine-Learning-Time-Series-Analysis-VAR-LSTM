@@ -27,7 +27,8 @@ Also will see Vector Autoregression (VAR) that is a multivariate forecasting alg
 > * **Check for Serial Correlation of Residuals :** Be sure residuals are randomly distributed which as known white noise.
  <br/> 
 Help you to reach listed sources that I have been received support. You can go to check out both of them which are quite good tutorials to first shot multivariate time series analysis.  <br/> 
+
 (https://machinelearningmastery.com/use-timesteps-lstm-networks-time-series-forecasting/)
 (https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/)
-<br/> <br/> 
+<br/>
 Good luck.
