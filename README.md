@@ -1,4 +1,4 @@
-# Machine Learning and Time Series Solutions for a Non-Linear Regression Problem (VAR, LSTM)
+# Machine Learning and Time Series Solutions for a Non-Linear Regression Problem (VAR, LSTM, LightGBM)
  
 ## 1. Exploratory Data Analysis
 To understand what current situation is in data, to extract information of data and summarize the main characteristics of the data. 
